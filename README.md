@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sarfraz20020707?tab=repositories](https://github.com/sarfraz20020707?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mohammad-sarfraz-043118258/](https://www.linkedin.com/in/mohammad-sarfraz-043118258/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/mohammad-sarfraz](https://www.linkedin.com/in/sarfraz-tech/)
 
 - 💬 Ask me about **Anything related to AI**
 
